@@ -1,5 +1,4 @@
 # React Youtube (Youtube Clone Application)
-Live Demo: [Click Here](https://my-react-youtube.netlify.app/)
 
 ## Usage
 In the project directory, you can run:
@@ -15,6 +14,3 @@ npm start
 
 ## Screenshot
 ![img](public/Screenshot.png)
-
-## License
-MIT
